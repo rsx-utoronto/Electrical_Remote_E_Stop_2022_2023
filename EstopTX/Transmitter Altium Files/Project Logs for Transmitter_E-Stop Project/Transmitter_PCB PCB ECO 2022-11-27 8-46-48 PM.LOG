@@ -1,0 +1,4 @@
+Change Component Comment : Designator=J1 Old Comment=Header 10X2 New Comment=Logic_Shifter
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=U1-27
+Added Net: Name=NetJ2_3
