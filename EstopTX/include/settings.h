@@ -1,4 +1,4 @@
-#ifndef SETTINGS_Hconst
+#ifndef SETTINGS_H
 #define SETTINGS_H
 
 #include <stdint.h>
