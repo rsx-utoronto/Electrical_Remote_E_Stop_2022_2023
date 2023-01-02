@@ -97,7 +97,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QANQXTEN
 
 [Document4]
 DocumentPath=Receiver_E-Stop Project1\Receiver.SchLib
