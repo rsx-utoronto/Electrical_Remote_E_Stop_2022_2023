@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=R7 NewDesignator=R1
+Change Component Designator: OldDesignator=R8 NewDesignator=R2
+Change Component Designator: OldDesignator=R_OE1 NewDesignator=R3
+Added Pin To Net: NetName=NetJ1_11 Pin=J2-12
+Added Pin To Net: NetName=NetJ1_11 Pin=SW1-3
+Added Pin To Net: NetName=NetJ1_11 Pin=SW2-3
+Added Pin To Net: NetName=NetJ1_11 Pin=TX_SIG_0-2
+Added Pin To Net: NetName=NetJ1_11 Pin=TX_SIG_1-2
+Added Pin To Net: NetName=NetJ1_11 Pin=U1-4
+Added Pin To Net: NetName=NetJ1_11 Pin=U1-29
+Change Net Name : Old Net Name=NetJ1_11 New Net Name=GND
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR2_2
