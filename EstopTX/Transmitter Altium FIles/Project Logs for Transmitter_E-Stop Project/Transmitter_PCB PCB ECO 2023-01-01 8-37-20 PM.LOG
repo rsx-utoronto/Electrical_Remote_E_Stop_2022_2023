@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=J2-11
-Removed Pin From Net: NetName=GND Pin=J2-12
-Change Component Footprint: Designator=J2 Old Footprint=3.3V/5V Battery Shield New Footprint=3.3V/5V Battery Shield - duplicate
-Added Room: Name=Transmitter
