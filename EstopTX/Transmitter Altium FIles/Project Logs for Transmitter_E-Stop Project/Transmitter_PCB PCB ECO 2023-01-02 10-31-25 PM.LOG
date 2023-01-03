@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=NetJ1_17 Pin=J2-1
+Removed Pin From Net: NetName=NetJ1_18 Pin=J2-2
+Removed Pin From Net: NetName=NetJ1_10 Pin=J3-2
+Removed Pin From Net: NetName=NetJ1_4 Pin=J3-3
+Removed Pin From Net: NetName=NetJ1_12 Pin=J3-4
+Removed Pin From Net: NetName=NetJ1_20 Pin=J3-5
+Removed Pin From Net: NetName=NetJ1_14 Pin=J3-6
+Removed Pin From Net: NetName=NetJ1_16 Pin=J3-7
+Removed Pin From Net: NetName=NetJ1_8 Pin=J3-10
+Removed Pin From Net: NetName=NetJ1_6 Pin=J3-11
+Removed Pin From Net: NetName=NetJ1_2 Pin=R3-1
+Removed Pin From Net: NetName=NetJ1_18 Pin=R3-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=U1-9
+Removed Pin From Net: NetName=NetJ1_5 Pin=U1-10
+Removed Pin From Net: NetName=NetJ1_7 Pin=U1-11
+Removed Pin From Net: NetName=NetJ1_9 Pin=U1-12
+Removed Pin From Net: NetName=NetJ1_13 Pin=U1-14
+Removed Pin From Net: NetName=NetJ1_15 Pin=U1-15
+Removed Pin From Net: NetName=NetJ1_19 Pin=U1-16
+Change Component Footprint: Designator=J1 Old Footprint=Logic SHifter New Footprint=DIP2SSOP20
+Change Component Comment : Designator=J1 Old Comment=Logic_Shifter New Comment=Logic_Shift
+Added Pin To Net: NetName=GND Pin=J1-11
+Added Pin To Net: NetName=NetJ1_19 Pin=J2-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ1_6 Pin=J3-2
+Added Pin To Net: NetName=NetJ1_9 Pin=J3-3
+Added Pin To Net: NetName=NetJ1_5 Pin=J3-4
+Added Pin To Net: NetName=NetJ1_4 Pin=J3-6
+Added Pin To Net: NetName=NetJ1_3 Pin=J3-7
+Added Pin To Net: NetName=NetJ1_7 Pin=J3-10
+Added Pin To Net: NetName=NetJ1_8 Pin=J3-11
+Added Pin To Net: NetName=NetJ1_10 Pin=R3-1
+Added Pin To Net: NetName=NetJ1_2 Pin=R3-2
+Added Pin To Net: NetName=NetJ1_12 Pin=U1-9
+Added Pin To Net: NetName=NetJ1_13 Pin=U1-10
+Added Pin To Net: NetName=NetJ1_14 Pin=U1-11
+Added Pin To Net: NetName=NetJ1_15 Pin=U1-12
+Added Pin To Net: NetName=NetJ1_16 Pin=U1-13
+Added Pin To Net: NetName=NetJ1_17 Pin=U1-14
+Added Pin To Net: NetName=NetJ1_18 Pin=U1-15
+Added Pin To Net: NetName=NetJ1_20 Pin=U1-16
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=J3-5
+Added Net: Name=NetJ1_1
+Added Room: Name=Transmitter
