@@ -1,0 +1,16 @@
+Replace Part D1 Diode 1N4007 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Diode 1N4007 from Miscellaneous Devices.IntLib
+Update Managed Component J1 From CMP-2000-05299-1[1725656] To CMP-2000-05299-1[1725656] in Receiver.SchDoc
+Replace Part J2 Header 12 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Header 12 from Miscellaneous Connectors.IntLib
+Replace Part J3 Header 10X2 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Header 10X2 from Miscellaneous Connectors.IntLib
+Replace Part J4 Header 6X2 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Header 6X2 from Miscellaneous Connectors.IntLib
+Update Managed Component M1 From CMP-1048-01402-1[2N2222AG] To CMP-1048-01402-1[P2N2222AG] in Receiver.SchDoc
+Update Managed Component O1 From CMP-2000-06632-1[LTV-817] To CMP-2000-06632-1[LTV-817] in Receiver.SchDoc
+Replace Part R1 Res1 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R2 Res1 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R3 Res1 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R5 Res1 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R6 Res1 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part R_OE1 Res1 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with Res1 from Miscellaneous Devices.IntLib
+Replace Part RX_SIG_0 LED0 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with LED0 from Miscellaneous Devices.IntLib
+Replace Part RX_SIG_1 LED0 in C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Receiver\Receiver.SchDoc with LED0 from Miscellaneous Devices.IntLib
+Update Managed Component U1 From CMP-189986-000002-1[A000005] To CMP-189986-000002-1[A000005] in Receiver.SchDoc
