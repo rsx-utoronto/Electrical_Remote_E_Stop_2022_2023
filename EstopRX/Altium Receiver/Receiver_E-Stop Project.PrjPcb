@@ -120,58 +120,6 @@ DocumentUniqueId=HNPPTIQT
 DocumentPath=Project Outputs for Receiver_E-Stop Project\Design Rule Check - Receiver_PCB.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Copper_Signal_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Copper_Signal_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Legend_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Legend_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_NPTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_PTH_Drill.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for Receiver_E-Stop Project\Receiver_PCB_Soldermask_Top.gbr
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
