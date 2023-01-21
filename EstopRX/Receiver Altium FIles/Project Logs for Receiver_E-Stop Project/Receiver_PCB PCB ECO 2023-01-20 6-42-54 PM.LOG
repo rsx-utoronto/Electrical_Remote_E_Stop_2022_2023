@@ -1,0 +1,87 @@
+Removed Member From Class: ClassName=Receiver Member=R6
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=SHUT_DOWN NewDesignator=RX_SIG_2
+Change Component Designator: OldDesignator=SYSTEM_ON NewDesignator=RX_SIG_1
+Change component parameters: Designator = "R5" ("R5"); Footprint = "AXIAL-0.3"; UniqueID = "\ZMCMQUVQ" ("\ZMCMQUVQ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "AXIAL-0.3"; UniqueID = "\TIFBEXVN" ("\TIFBEXVN")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDR1X8)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ1_3
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=NetJ1_5
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=NetJ1_6
+Change Net Name : Old Net Name=NetJ2_7 New Net Name=NetJ1_7
+Change Net Name : Old Net Name=NetJ2_8 New Net Name=NetJ1_8
+Change Net Name : Old Net Name=NetJ2_10 New Net Name=NetJ1_10
+Change Net Name : Old Net Name=NetJ2_11 New Net Name=NetJ1_11
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ3_10 New Net Name=NetJ2_10
+Change Net Name : Old Net Name=NetJ3_12 New Net Name=NetJ2_12
+Change Net Name : Old Net Name=NetJ3_13 New Net Name=NetJ2_13
+Change Net Name : Old Net Name=NetJ3_14 New Net Name=NetJ2_14
+Change Net Name : Old Net Name=NetJ3_15 New Net Name=NetJ2_15
+Change Net Name : Old Net Name=NetJ3_16 New Net Name=NetJ2_16
+Change Net Name : Old Net Name=NetJ3_17 New Net Name=NetJ2_17
+Change Net Name : Old Net Name=NetJ3_18 New Net Name=NetJ2_18
+Change Net Name : Old Net Name=NetJ3_19 New Net Name=NetJ2_19
+Change Net Name : Old Net Name=NetJ3_20 New Net Name=NetJ2_20
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR1_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR2_2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-26
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-25
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=U1-24
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetJ5_4 Pin=J5-4
+Added Pin To Net: NetName=NetJ5_4 Pin=U1-23
+Added Net: Name=NetJ5_4
+Added Pin To Net: NetName=NetJ5_5 Pin=J5-5
+Added Pin To Net: NetName=NetJ5_5 Pin=U1-22
+Added Net: Name=NetJ5_5
+Added Pin To Net: NetName=NetJ5_6 Pin=J5-6
+Added Pin To Net: NetName=NetJ5_6 Pin=U1-21
+Added Net: Name=NetJ5_6
+Added Pin To Net: NetName=NetJ5_7 Pin=J5-7
+Added Pin To Net: NetName=NetJ5_7 Pin=U1-20
+Added Net: Name=NetJ5_7
+Added Pin To Net: NetName=NetJ5_8 Pin=J5-8
+Added Pin To Net: NetName=NetJ5_8 Pin=U1-19
+Added Net: Name=NetJ5_8
+Added Member To Class: ClassName=Receiver Member=Component J5 Header 8
+Added Member To Class: ClassName=Receiver Member=Component R4 Res1
+Added Room: Name=Receiver
