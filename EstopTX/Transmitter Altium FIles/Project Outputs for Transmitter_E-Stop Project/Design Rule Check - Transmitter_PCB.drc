@@ -1,10 +1,7 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\shade\OneDrive\Desktop\Altium Remote_Emergency_Stop\Transmitter Altium FIles\Transmitter_PCB.PcbDoc
-Date     : 2023-01-20
-Time     : 9:21:36 PM
-
-WARNING: Design contains shelved or modified (but not repoured) polygons. The result of DRC is not correct. Recommended to restore/repour all polygons and proceed with DRC again
-   Polygon named: GND_L02_P000 In net GND On Bottom Layer
+Date     : 2023-01-26
+Time     : 5:57:25 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
 Rule Violations :0
@@ -13,11 +10,11 @@ Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
 
 Processing Rule : Un-Routed Net Constraint ( (All) )
-Rule Violations :0
+   Violation between Un-Routed Net Constraint: Net GND Between Pad J2-4(33.187mm,52.442mm) on Multi-Layer And Pad J3-12(33.414mm,75.757mm) on Top Layer 
+Rule Violations :1
 
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
-   Violation between Modified Polygon: Polygon Shelved  (NONET_L02_P000) on Bottom Layer 
-Rule Violations :1
+Rule Violations :0
 
 Processing Rule : Width Constraint (Min=0.254mm) (Max=0.508mm) (Preferred=0.254mm) (All)
 Rule Violations :0
@@ -50,4 +47,4 @@ Rule Violations :0
 Violations Detected : 1
 Waived Violations : 0
 PCB Health Issues : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
