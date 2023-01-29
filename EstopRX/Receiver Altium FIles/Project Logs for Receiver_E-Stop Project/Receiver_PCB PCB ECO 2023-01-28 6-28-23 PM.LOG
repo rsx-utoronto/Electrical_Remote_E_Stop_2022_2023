@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=O1-2
+Removed Pin From Net: NetName=NetD1_2 Pin=O1-4
+Removed Member From Class: ClassName=Receiver Member=O1
+Removed Member From Class: ClassName=Receiver Member=R4
+Change Component Designator: OldDesignator=SYSTEM_OFF NewDesignator=RX_SIG_2
+Change Component Designator: OldDesignator=SYSTEM_ON NewDesignator=RX_SIG_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-8
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=Receiver Member=Component J2 Logic_Shift
+Added Member To Class: ClassName=Receiver Member=Component J3 Header 6X2
+Added Member To Class: ClassName=Receiver Member=Component J4 1725656
+Added Member To Class: ClassName=Receiver Member=Component R2 Res1
+Added Room: Name=Receiver
