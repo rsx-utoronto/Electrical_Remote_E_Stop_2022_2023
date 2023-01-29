@@ -155,82 +155,166 @@ DocumentPath=Project Outputs for Transmitter_E-Stop Project\Design Rule Check - 
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=NC Drill\Transmitter_PCB.DRR
+DocumentPath=Manufacturing Output Files\NC Drill\Transmitter_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Gerber\Transmitter_PCB.EXTREP
+DocumentPath=NC Drill\Transmitter_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Gerber\Transmitter_PCB.GBL
+DocumentPath=Gerber\Transmitter_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Gerber\Transmitter_PCB.GBS
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Gerber\Transmitter_PCB.GM2
+DocumentPath=Gerber\Transmitter_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Gerber\Transmitter_PCB.GM3
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Gerber\Transmitter_PCB.GM4
+DocumentPath=Gerber\Transmitter_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Gerber\Transmitter_PCB.GM13
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Gerber\Transmitter_PCB.GM15
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB_Outline.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Gerber\Transmitter_PCB.GM16
+DocumentPath=Gerber\Transmitter_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Gerber\Transmitter_PCB.GPB
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Gerber\Transmitter_PCB.GPT
+DocumentPath=Gerber\Transmitter_PCB.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Gerber\Transmitter_PCB.GTL
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Gerber\Transmitter_PCB.GTO
+DocumentPath=Gerber\Transmitter_PCB.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Gerber\Transmitter_PCB.GTP
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Gerber\Transmitter_PCB.GTS
+DocumentPath=Gerber\Transmitter_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=NC Drill\Transmitter_PCB.LDP
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Gerber\Transmitter_PCB.REP
+DocumentPath=Gerber\Transmitter_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Gerber\Transmitter_PCB.RUL
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument21]
+DocumentPath=Gerber\Transmitter_PCB.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Gerber\Transmitter_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Gerber\Transmitter_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Gerber\Transmitter_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Gerber\Transmitter_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Gerber\Transmitter_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Gerber\Transmitter_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Manufacturing Output Files\NC Drill\Transmitter_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=NC Drill\Transmitter_PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Gerber\Transmitter_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.REP
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Gerber\Transmitter_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Manufacturing Output Files\NC Drill\Transmitter_PCB.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument42]
 DocumentPath=NC Drill\Transmitter_PCB.TXT
 DItemRevisionGUID=
 
