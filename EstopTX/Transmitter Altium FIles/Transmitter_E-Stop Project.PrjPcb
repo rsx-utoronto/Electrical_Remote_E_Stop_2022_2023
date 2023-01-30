@@ -159,163 +159,83 @@ DocumentPath=Manufacturing Output Files\NC Drill\Transmitter_PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=NC Drill\Transmitter_PCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Gerber\Transmitter_PCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument6]
-DocumentPath=Gerber\Transmitter_PCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
-DocumentPath=Gerber\Transmitter_PCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
+[GeneratedDocument5]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
-DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB_Outline.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Gerber\Transmitter_PCB.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
+[GeneratedDocument6]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM2
 DItemRevisionGUID=
 
-[GeneratedDocument13]
-DocumentPath=Gerber\Transmitter_PCB.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument14]
+[GeneratedDocument7]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM3
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Gerber\Transmitter_PCB.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument8]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Gerber\Transmitter_PCB.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument9]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Gerber\Transmitter_PCB.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument10]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument21]
-DocumentPath=Gerber\Transmitter_PCB.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument22]
+[GeneratedDocument11]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument23]
-DocumentPath=Gerber\Transmitter_PCB.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument24]
+[GeneratedDocument12]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument25]
-DocumentPath=Gerber\Transmitter_PCB.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument26]
+[GeneratedDocument13]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument27]
-DocumentPath=Gerber\Transmitter_PCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
+[GeneratedDocument14]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument29]
-DocumentPath=Gerber\Transmitter_PCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument30]
+[GeneratedDocument15]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument31]
-DocumentPath=Gerber\Transmitter_PCB.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
+[GeneratedDocument16]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
-DocumentPath=Gerber\Transmitter_PCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument34]
+[GeneratedDocument17]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument18]
 DocumentPath=Manufacturing Output Files\NC Drill\Transmitter_PCB.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument36]
-DocumentPath=NC Drill\Transmitter_PCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Gerber\Transmitter_PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument38]
+[GeneratedDocument19]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.REP
 DItemRevisionGUID=
 
-[GeneratedDocument39]
-DocumentPath=Gerber\Transmitter_PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument40]
+[GeneratedDocument20]
 DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument21]
 DocumentPath=Manufacturing Output Files\NC Drill\Transmitter_PCB.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument42]
-DocumentPath=NC Drill\Transmitter_PCB.TXT
+[GeneratedDocument22]
+DocumentPath=Manufacturing Output Files\Gerber\Transmitter_PCB_Outline.GKO
 DItemRevisionGUID=
 
 [Configuration1]
