@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJ4_1 Pin=K1-COM
+Removed Pin From Net: NetName=NetJ4_2 Pin=K1-NC
+Removed Member From Class: ClassName=Receiver Member=J6
+Change Component Footprint: Designator=J4 Old Footprint=PHOE-1725656-2 New Footprint=691214110003
+Change Component Comment : Designator=J4 Old Comment=1725656 New Comment=691214110003
+Change Component Designator: OldDesignator= NewDesignator=RX_SIG_1
+Change Component Designator: OldDesignator= NewDesignator=RX_SIG_2
+Change Managed Component Library Link : Designator=J4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=CAE667FA-CA69-4A21-B962-8C797C189E9E New ItemGUID=4B5A11BE-1251-4E09-94B4-1D0EEE02D2A6 Old RevisionGUID=3C547291-AA81-4CCE-931F-339B6C403646 New RevisionGUID=CC746F9B-8F45-46DC-99FF-3D6C17D7B1D9
+Change component parameters: Designator = "J4" ("J4"); Footprint = "PHOE-1725656-2"; UniqueID = "\AUNWEAND" ("\AUNWEAND")
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://katalog.we-online.de/em/datasheet/6912141100xx.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.we-online.de"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "THT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40to105degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "691214110003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "691214110003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Number"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.50mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "WurthElektronik"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ4_2 Pin=K1-COM
+Added Pin To Net: NetName=NetJ4_1 Pin=K1-NO
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=K1-NC
+Added Net: Name=NetJ4_3
+Added Member To Class: ClassName=Receiver Member=Component RX_SIG_1 Green_LED
+Added Member To Class: ClassName=Receiver Member=Component RX_SIG_2 Red_LED
+Added Room: Name=Receiver
