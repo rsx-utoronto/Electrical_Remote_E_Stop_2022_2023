@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=SHUT_DOWN NewDesignator=TX_SIG_1
+Change Component Designator: OldDesignator=SYSTEM_ON NewDesignator=TX_SIG_0
+Added Member To Class: ClassName=Transmitter Member=Component TX_SIG_0 Green_LED
+Added Room: Name=Transmitter

@@ -1,0 +1,18 @@
+Added Component: Designator=J3(LORA Sx1278)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetJ1_6 Pin=J3-2
+Added Pin To Net: NetName=NetJ1_9 Pin=J3-3
+Added Pin To Net: NetName=NetJ1_5 Pin=J3-4
+Added Pin To Net: NetName=NetJ1_1 Pin=J3-5
+Added Pin To Net: NetName=NetJ1_4 Pin=J3-6
+Added Pin To Net: NetName=NetJ1_3 Pin=J3-7
+Added Pin To Net: NetName=NetJ2_6 Pin=J3-8
+Added Pin To Net: NetName=DI03 Pin=J3-9
+Added Pin To Net: NetName=NetJ1_7 Pin=J3-10
+Added Pin To Net: NetName=NetJ1_8 Pin=J3-11
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Member To Class: ClassName=Transmitter Member=Component J3 Header 12
+Added Room: Name=Transmitter
