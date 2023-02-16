@@ -2,6 +2,33 @@
 FileName = Transmitter_PCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Bottom Layer
+      File : Transmitter_PCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D25
+    D26
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+*************************************************************
+
+*************************************************************
 Generating : Top Component Center
       File : Transmitter_PCB.GM16
 
@@ -35,28 +62,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Assembly
-      File : Transmitter_PCB.GM4
-
-    Adding Layer      : Top Assembly
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
-Generating : Top Courtyard
-      File : Transmitter_PCB.GM3
-
-    Adding Layer      : Top Courtyard
-
-
-Used DCodes :
-    D10
-*************************************************************
-
-*************************************************************
 Generating : Top 3D Body
       File : Transmitter_PCB.GM2
 
@@ -65,6 +70,58 @@ Generating : Top 3D Body
 
 Used DCodes :
     D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : Transmitter_PCB.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : Transmitter_PCB.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D13
+    D15
+    D25
+    D26
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
 *************************************************************
 
 *************************************************************
@@ -77,63 +134,6 @@ Generating : Keep-Out Layer
 Used DCodes :
     D11
     D13
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : Transmitter_PCB.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : Transmitter_PCB.GTS
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
 *************************************************************
 
 *************************************************************
@@ -192,8 +192,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Pad Master
-      File : Transmitter_PCB.GPB
+Generating : Top Courtyard
+      File : Transmitter_PCB.GM3
+
+    Adding Layer      : Top Courtyard
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Top Assembly
+      File : Transmitter_PCB.GM4
+
+    Adding Layer      : Top Assembly
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : Transmitter_PCB.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -201,50 +225,27 @@ Generating : Bottom Pad Master
 
 
 Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
     D25
     D26
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : Transmitter_PCB.GBL
+Generating : Top Solder
+      File : Transmitter_PCB.GTS
 
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D25
-    D26
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
-*************************************************************
-
-*************************************************************
-Generating : Top Layer
-      File : Transmitter_PCB.GTL
+    Adding Layer      : Top Solder
 
     Adding Layer      : Top Layer
 
@@ -252,21 +253,20 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D13
-    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
     D25
     D26
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D40
-    D41
-    D42
+    D27
+    D28
+    D29
+    D30
 *************************************************************
 
