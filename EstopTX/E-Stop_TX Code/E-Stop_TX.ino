@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include <LoRa.h>
 #include <OneButton.h>
+#include <avr/wdt.h>
 
 #include "enums.h"
 #include "settings.h"
@@ -39,7 +40,11 @@ void off_btn_click() {
   digitalWrite(OFF_LED_PIN, HIGH);  // turn on "OFF" LED
   digitalWrite(ON_LED_PIN, LOW);
   digitalWrite(Sig_pin, HIGH);
+  LoRa.beginPacket();
+  LoRa.print("3141592653 OFF");
+  LoRa.endPacket();
 }
+
 void on_btn_click() {
   Serial.println("ROVER ON");
   currentMode = ROVER_ON;
@@ -48,6 +53,9 @@ void on_btn_click() {
   digitalWrite(ON_LED_PIN, HIGH);  // turn on "ON" LED
   digitalWrite(OFF_LED_PIN, LOW);
   digitalWrite(Sig_pin, LOW);
+  LoRa.beginPacket();
+  LoRa.print("3141592653 ON");
+  LoRa.endPacket();
 }
 
 
@@ -58,24 +66,15 @@ void setup() {
   // set up LoRa
   LoRa.setSPIFrequency(500000);
   bool status = LoRa.begin(433E6);          // 433 MHz
-  LoRa.setTxPower(TX_POWER);
+//  LoRa.setTxPower(TX_POWER);
 
   if (!status) {
     Serial.println("Starting LoRa failed!");
     while (1);
   }
-  // Serial.println("Starting LoRa worked!!");
-
-  // while (!LoRa.available()) {
-  //   Serial.println("Waiting for LoRa");
-  //   delay(100);
-  // }
   
   Serial.println("LoRa OK!");
 
-  // set up pins
-  // pinMode(ON_SW_PIN, INPUT_PULLUP);
-  // pinMode(OFF_SW_PIN, INPUT_PULLUP);
   pinMode(ON_LED_PIN, OUTPUT);
   pinMode(OFF_LED_PIN, OUTPUT);
   pinMode(Sig_pin, OUTPUT);
@@ -85,28 +84,13 @@ void setup() {
 
   digitalWrite(ON_LED_PIN, HIGH);   // turn on "ON" LED
   digitalWrite(OFF_LED_PIN, LOW);
+  
+  wdt_disable();
+  delay(3000);
+  wdt_enable(WDTO_2S);
 }
 
 void loop() {
-//  Serial.println("LOOPING");
-
-  // Read switches
-  // if (!digitalRead(OFF_SW_PIN)) {
-  //   Serial.println("ROVER OFF");
-  //   currentMode = ROVER_OFF;
-  //   sendState();
-
-  //   digitalWrite(OFF_LED_PIN, HIGH);  // turn on "OFF" LED
-  //   digitalWrite(ON_LED_PIN, LOW);
-  // }
-  // else if (!digitalRead(ON_SW_PIN)) {
-  //   Serial.println("ROVER ON");
-  //   currentMode = ROVER_ON;
-  //   sendState();
-
-  //   digitalWrite(ON_LED_PIN, HIGH);  // turn on "ON" LED
-  //   digitalWrite(OFF_LED_PIN, LOW);
-  // }
 
   // Send state if time is up
   if ((millis() - timeOfLastTx) > HEARTBEAT_INTERVAL) {
@@ -114,9 +98,12 @@ void loop() {
     sendState();
     timeOfLastTx = millis();
   }
+  
 
   on_btn.tick();
   off_btn.tick();
+
+  wdt_reset();
 
   delay(10);
 }
