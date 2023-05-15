@@ -6,9 +6,9 @@
 
 #define TX_POWER 20                 // <= 20
 
-#define SW_PIN 4                 // digital pins!
-#define ON_LED_PIN 2
-#define OFF_LED_PIN 3
+#define SW_PIN 2                 // digital pins!
+#define ON_LED_PIN 4
+#define OFF_LED_PIN 5
 
 #define HEARTBEAT_INTERVAL 10000    // in ms
 
